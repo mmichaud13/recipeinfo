@@ -17,19 +17,20 @@ ul {
 body{
   font-family: Tahoma, Arial, sans-serif; /* 3. */
   max-width: 48rem; /* 1. */
-  background: #00000;
+  background: #000000;
   padding: 1.5rem; /* 1. */
   margin-left: auto; /* 2. */
   margin-right: auto; /* 2. */
 }
+
   main {
-    background-color: #ccc;
+    background-color: #f6ba18;
     padding: 2em;
-    border: 1px dashed #000;
-    border-top: 1em solid #f00;
+    border: 1px dashed #752f31;
+    border-top: 1em solid #752f31;
     margin: 2em;
   }
-
+body {background-image: url(https://cdn2.vectorstock.com/i/thumb-large/01/06/ball-american-football-wallpaper-design-vector-14100106.jpg);}
   img {
     width: auto;
     max-width: 100%;
