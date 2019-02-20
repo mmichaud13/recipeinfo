@@ -20,7 +20,7 @@ body{
   background: #00000;
   padding: 1.5rem; /* 1. */
   margin-left: auto; /* 2. */
-  marin-right: auto; /* 2. */
+  margin-right: auto; /* 2. */
 }
   main {
     background-color: #ccc;
